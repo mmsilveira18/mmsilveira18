@@ -1,6 +1,6 @@
 ## Olá, Moisés Silveira aqui!👋
 
-• 🔭Atualmente no Suporte N1 do DAER/RS
+• 🔭 Suporte N1 do DAER/RS
 
 • 🌱Estudante de Engenharia de Software na Uninter (2º semestre)
 
